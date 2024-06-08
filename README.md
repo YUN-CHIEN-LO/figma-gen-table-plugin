@@ -1,0 +1,1 @@
+# figma-gen-table-plugin
